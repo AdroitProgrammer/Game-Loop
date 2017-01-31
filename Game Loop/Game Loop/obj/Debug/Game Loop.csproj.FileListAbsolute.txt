@@ -1,0 +1,9 @@
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\bin\Debug\Game Loop.exe.config
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\bin\Debug\Game Loop.exe
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\bin\Debug\Game Loop.pdb
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\obj\Debug\Game Loop.csprojResolveAssemblyReference.cache
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\obj\Debug\Game_Loop.Form1.resources
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\obj\Debug\Game_Loop.Properties.Resources.resources
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\obj\Debug\Game Loop.csproj.GenerateResource.Cache
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\obj\Debug\Game Loop.exe
+c:\users\adroi\onedrive\documents\visual studio 2015\Projects\Game Loop\Game Loop\obj\Debug\Game Loop.pdb
